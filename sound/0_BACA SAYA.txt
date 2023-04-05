@@ -1,0 +1,8 @@
+Tutorial Cara menambah sound.mp3 pemanggilan customer
+1. Kunjungi website https://soundoftext.com/
+2. Inputkan teks dengan konten -> nomor antrian 1, silahkan menuju kasir
+3. Bahasa pilih Indonesia
+4. Klin tombol Submit dan scroll ke bawah kemudian download
+5. Rename hasil download sesuai no antrian (misalkan sesuai teks di atas berarti ubah menjadi 1.mp3)
+6. Copas ke folder sound
+7. Untuk no. antrain sesuaikan dengan antrian yg sudah ada jika no. antrian terakhir 100 maka selanjutnya 101 dan teks juga mengikuti
